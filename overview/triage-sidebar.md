@@ -7,7 +7,7 @@ Triage Sidebar replaces the scrolling thread list in BB's sidebar. BB keeps its 
 - **Snooze and settle.** Snooze hides a thread for an hour, until this evening, tomorrow morning or next Monday. A snoozed thread comes back early if it starts working or asks you something. Settle files a finished thread on its own shelf.
 - **Cleanup when you settle.** Settling closes the thread's terminals and stops the processes left under its worktree. A settled thread that stays untouched is archived after the number of days you set.
 - **Ports behind a plug icon.** Hover the icon on a card to see each port its worktree is serving and the process behind it. Click a port to open it in BB's browser, or Command-click to open your default browser. A port's process can be stopped from the same card, after a confirming second click.
-- **Project commands.** Save commands such as `pnpm dev` or `npm test` per project in Settings, then run or stop them from a thread's row. Each runs in a BB terminal.
+- **Project commands.** Save up to 12 commands such as `pnpm dev` or `npm test` per project in Settings, then run or stop them from a thread's row or its header, where the dev server gets a play button. Each runs in a BB terminal on the thread.
 - **A coloured square per project.** Each card starts with the project's avatar: one you set, the project's own favicon, the git host's owner image, or a generated monogram.
 - **Child threads in the header.** Children leave the list while their parent is visible. A header chip lists a parent's children, and a child's chip leads back to its parent.
 
